@@ -18,8 +18,7 @@ I thrive in dynamic environments where there's always something new to learn and
 For additional information, refer to my [resume](https://drive.google.com/file/d/13KYmKt1PcTed6czbEjrdhdZZDZnpgJ0E/view?usp=sharing).
 
 ## Contact Me
-**MARUDHAM T S**  
-Full Stack Developer  
+
 📧 Email: marudham369@gmail.com  
 📱 Phone: 7603953929  
 📍 Location: Dharmapuri, Tamil Nadu, India  
