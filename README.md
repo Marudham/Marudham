@@ -1,6 +1,7 @@
-# Hello! 👋
 
-I'm Marudham T S, a Java Full Stack Developer passionate about creating and building things. I'm a quick and active learner.
+<h1 style="text-align: center">Hello! 👋, I'm Marudham T S</h1>
+
+ I am a Java Full Stack Developer passionate about creating and building things. I'm a quick and active learner.
 
 ## About Me
 
@@ -24,4 +25,4 @@ For additional information, refer to my [resume](https://drive.google.com/file/d
 📍 Location: Dharmapuri, Tamil Nadu, India  
 
 **Links:**  
-[LinkedIn](https://www.linkedin.com/in/marudham-t-s) | [GitHub]([github_profile_link_here](https://github.com/Marudham)) | [HackerRank]([hackerrank_profile_link_here](https://www.hackerrank.com/profile/marudham369))
+[LinkedIn](https://www.linkedin.com/in/marudham-t-s) | [GitHub](https://github.com/Marudham) | [HackerRank](https://www.hackerrank.com/profile/marudham369)
