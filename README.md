@@ -1,6 +1,6 @@
-<h1 align="center">
+<h3 align="center">
   <samp>
     Hello! I am 
     <b>Marudham T S</b>
   </samp>  
-</h1>
+</h3>
