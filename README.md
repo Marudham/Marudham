@@ -1,1 +1,6 @@
-<h1 align="center">Hello! I am Marudham T S</h1>
+<h1 align="center">
+  <samp>
+    Hello! I am 
+    <b>Marudham T S</b>
+  </samp>  
+</h1>
