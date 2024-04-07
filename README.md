@@ -2,8 +2,13 @@
   <samp>
     Hello! I am 
     <b>Marudham T S</b>
+    <br>
   </samp>  
 </h3>
+**`test`**
+<p align="center">
+  I'm a Java Full Stack Developer passionate about creating and building things. I'm a quick and active learner.
+</p>
 
 <div align="center">
 
