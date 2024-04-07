@@ -36,10 +36,8 @@
 #
   
 ### Resume
-
   <samp>
-    
-  For additional information, refer to my <a href="https://drive.google.com/file/d/13KYmKt1PcTed6czbEjrdhdZZDZnpgJ0E/view?usp=sharing">resume</a>.
+  For additional information, refer to my <a targrt="_blank" href="https://drive.google.com/file/d/13KYmKt1PcTed6czbEjrdhdZZDZnpgJ0E/view?usp=sharing">resume</a>.
   </samp>
 
 #
@@ -49,7 +47,6 @@
 #
 
 ### Links
-
 <a href="https://www.linkedin.com/in/marudham-t-s" target="_blank">LinkedIn</a> | 
 <a href="https://github.com/Marudham" target="_blank">GitHub</a> | 
 <a href="https://www.hackerrank.com/profile/marudham369" target="_blank">HackerRank</a>
