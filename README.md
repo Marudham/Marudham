@@ -31,7 +31,8 @@
 #
 <br>
 <details>
-  <summary align="center"><b>View More Details.</b></summary>
+<!--   <summary align="center"><b> View Details.</b></summary> -->
+  <summary align="center"><b>&#9776; Details</b></summary>
   
 ### Resume
 
