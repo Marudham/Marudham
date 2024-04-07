@@ -12,7 +12,12 @@
       I thrive in dynamic environments where there's always something new to learn and explore. As a quick and active learner, I'm constantly seeking out opportunities to broaden my skills and deepen my understanding of technology.
     </samp>
   </p>
-  <hr>
+<!--   <hr> -->
+
+#
+<details>
+<!--   <summary align="center"><b> View Details.</b></summary> -->
+  <summary align="center"><b>&#9776; Details</b></summary>
   <h3>  Languages and Tools</h3>
     <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -29,10 +34,6 @@
 <br>
     
 #
-<br>
-<details>
-<!--   <summary align="center"><b> View Details.</b></summary> -->
-  <summary align="center"><b>&#9776; Details</b></summary>
   
 ### Resume
 
