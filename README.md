@@ -29,7 +29,10 @@
 <br>
     
 #
-
+<br>
+<details>
+  <summary align="center"><b>View More Details.</b></summary>
+  
 ### Resume
 
   <samp>
@@ -47,11 +50,10 @@
 
 [LinkedIn](https://www.linkedin.com/in/marudham-t-s) | [GitHub](https://github.com/Marudham) | [HackerRank](https://www.hackerrank.com/profile/marudham369) 
 
-  <br>
-  
+#  
 <details>
-  <summary>My Github Stats:</summary>
+  <summary><b>My Github Stats</b></summary><br>
   
   ![Marudham's Stats](https://github-readme-stats.vercel.app/api?username=Marudham&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
   ![Marudham's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marudham&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-</details>
+  </details>
