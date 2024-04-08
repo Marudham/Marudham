@@ -14,9 +14,10 @@
   </p>
 <!--   <hr> -->
 
+#
 <details>
-<!--   <summary align="center"><b> View Details.</b></summary> -->
-  <summary align="center"><b>&#9776; Details</b></summary>
+<!--   <summary><b> View Details.</b></summary> -->
+  <summary><b>&#9776; Details</b></summary>
   <h3>  Languages and Tools</h3>
     <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -51,3 +52,5 @@
   ![Marudham's Stats](https://github-readme-stats.vercel.app/api?username=Marudham&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
   ![Marudham's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marudham&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
   </details>
+  </details>
+  <hr>
