@@ -14,7 +14,6 @@
   </p>
 <!--   <hr> -->
 
-#
 <details>
 <!--   <summary align="center"><b> View Details.</b></summary> -->
   <summary align="center"><b>&#9776; Details</b></summary>
@@ -33,25 +32,19 @@
     <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <br>
     
-#
-  
 ### Resume
   <samp>
   For additional information, refer to my <a targrt="_blank" href="https://drive.google.com/file/d/13KYmKt1PcTed6czbEjrdhdZZDZnpgJ0E/view?usp=sharing">resume</a>.
   </samp>
 
-#
 <h3>Contact Me</h3>
     📧 Email: <a href="mailto:marudham369@gmail.com">marudham369@gmail.com</a>  
-
-#
 
 ### Links
 <a href="https://www.linkedin.com/in/marudham-t-s" target="_blank">LinkedIn</a> | 
 <a href="https://github.com/Marudham" target="_blank">GitHub</a> | 
 <a href="https://www.hackerrank.com/profile/marudham369" target="_blank">HackerRank</a>
-
-#  
+ 
 <details>
   <summary><b>My Github Stats</b></summary><br>
   
