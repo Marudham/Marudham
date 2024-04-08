@@ -1,7 +1,7 @@
   <h3>
     <samp>
       Hello! I am 
-      <b>Marudham T S</b>
+      <b>Marudham</b>
       <br>
     </samp>  
   </h3>
