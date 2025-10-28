@@ -39,7 +39,7 @@
   </samp>
 
 <h3>Contact Me</h3>
-    📧 Email: <a href="mailto:marudham369@gmail.com">marudham369@gmail.com</a>  
+    📧 Email: <a href="mailto:marudham.ts.contact@gmail.com">marudham.ts.contact@gmail.com</a>  
 
 ### Links
 <a href="https://www.linkedin.com/in/marudham-t-s" target="_blank">LinkedIn</a> | 
