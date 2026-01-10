@@ -35,7 +35,7 @@
     
 ### Resume
   <samp>
-  For additional information, refer to my <a targrt="_blank" href="https://drive.google.com/file/d/13KYmKt1PcTed6czbEjrdhdZZDZnpgJ0E/view?usp=sharing">resume</a>.
+  For additional information, refer to my <a targrt="_blank" href="https://drive.google.com/file/d/1StR1LRoTkfpieJgi9HbGKYHYPFKETucZ/view?usp=sharing">resume</a>.
   </samp>
 
 <h3>Contact Me</h3>
